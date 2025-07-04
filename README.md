@@ -40,7 +40,6 @@ NumPy, Pillow (PIL)
 
 HTML/CSS for front-end
 
-## 📁 Project Structure
 
 ## 📁 Project Structure
 ```
